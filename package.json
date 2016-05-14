@@ -1,0 +1,19 @@
+{
+  "name": "react_todo_list_app",
+  "version": "1.0.0",
+  "description": "This is to understand the Redux basic workflow with React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puvi034/ReactTodoListApp.git"
+  },
+  "author": "Puneeth T S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puvi034/ReactTodoListApp/issues"
+  },
+  "homepage": "https://github.com/puvi034/ReactTodoListApp#readme"
+}
